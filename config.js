@@ -18,7 +18,7 @@ var config = {
     //          2.T不能丢了
     date: "2011-09-01T08:30:0",
     // 双方的名字
-    names: ["岑", "Sasha","Xinyan"]
+    names: ["岑", "Sasha, Xinyan"]
 }
 
 
